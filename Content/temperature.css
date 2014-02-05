@@ -3,3 +3,11 @@
     color: Red;
     font-weight: bold;
 }
+#Temptable td
+{
+    border: 2px solid;
+    background-color: Silver;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
